@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Armando Bueno Ben
-    tagline: Teach leader - Android and iOS Developer
+    tagline: Mobile Teach Leader - Android and iOS Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -27,6 +27,9 @@ sidebar:
 
     interests:
       - item: Inline Skate
+        link:
+        
+      - item: Drones
         link:
 
       - item: Climbing
@@ -102,73 +105,62 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Until now, I have been working in consulting, which has allowed me to work on multiple projects in a variety of sectors
+      (Insurance, Banking, E-Commerce, Taxi, Logistics, Travel, Medical ...)
+      I feel fortunate to have been in all the projects I have worked on.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Santander Private Banking
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "I was part of the team of 40 people who carried out the migration of BANIF bank to Santader Private Banking."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Travel Club App
+        link: "https://www.travelclub.es/app/"
+        tagline: "The most important point redemption app in Spain with thousands of active users daily. App made from scratch."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Top Photo
+        link: "https://www.actualapp.com/descargar-app-top-photo-participa-ganar-huawei-p30-pro-54446"
+        tagline: "The App that accompanies one of the revelation contests in Spain."
 
-      - title: Delta
+      - title: Renault Empleados
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A progressive web application with a native webview container. Intranet for Renault employees"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+      - title: TecnoSeñal
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        tagline: "A native application to improve the company with a new digitalization process"
+        
+      - title: Others...
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "I have made more than fifty applications."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Android
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: iOS
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Flutter
+        level: 80%
+        
+      - name: Mobile Architectures
+        level: 90%
+
+      - name: HTML5 & CSS
+        level: 60%
+        
+      - name: Angular
         level: 60%
 
+      - name: CI/CD
+        level: 80%
+        
+      - name: Clean Code
+        level: 100%
+
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by Armando Bueno</a>

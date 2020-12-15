@@ -7,39 +7,29 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Armando Bueno Ben
+    tagline: Teach leader - Android and iOS Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: abuenoben@gmail.com
+    linkedin: abuenoben
+    github: n1rocket
+    telegram: n1rocket
+    twitter: '@n1rocket'
 
     languages:
-      - idiom: English
+      - idiom: Spanish
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Inline Skate
         link:
 
-      - item: Snowboarding
+      - item: Climbing
         link:
 
       - item: Cooking
@@ -48,16 +38,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Since I was a child my passion was technology, I am restless and I like to investigate. I love to feel that programming is an art, since it allows me to enjoy my work and want to continue being a better professional every day.
+      I love to work in a team because people usually contribute their vision of things and I like to be open-minded to accept criticism and new knowledge.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master Android & iOS Development
+      university: CICE - Madrid
+      time: 2015 (8 Months)
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,55 +52,53 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Software Development Bachelor's Degree
+      university: IES Jovellanos
+      time: 2010 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Programming Bases, SQL, Java, .NET, Oracle.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Tech Leader
+      time: 2018 - Present
+      company: Vanadis Iniciative SL
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        My role like Tech Leader has several responsabilities:
+          - Code Quality Assurance
+          - Provide Architectural and Design direction
+          - Control Technical Debt
+          - Ensure Code Review Healthiness
+          - Promote Collaboration and Engagement
+          - CI / CD - Bitrise
+          - Junior Profile Mentoring
+          - App Architecture Development (MVVM, MVP...)
+          - Flutter Developer
+          - Android Developer
+          - iOS Developer
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2015 - 2018
+      company: Vanadis Iniciative SL
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        My role like Senior Developer has several responsabilities:
+          - Performing coding assignments.
+          - Reviewing code work for accuracy and functionality.
+          - Creating and implementing design plans.
+          - Analyzing code segments regularly.
+          - Delegating tasks to team members.
+          - Keeping up-to-date with industry trends and technology developments.
+          - Junior Profile Mentoring
+          - App Architecture Development (MVVM, MVP...)
+          - Flutter Developer
+          - Android Developer
+          - iOS Developer
+    - role: Developer
+      time: 2012 - 2015
+      company: Santander Bank
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        My role like Tech Leader has several responsabilities:
+          - Maintenance of old developments made in private banking.
+          - Be part of the development of a new multiple payment system for the United States
+          - Create software documentation
+          - Testing software for QA department
 projects:
     title: Projects
     intro: >
